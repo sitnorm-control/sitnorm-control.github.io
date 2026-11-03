@@ -1,0 +1,93 @@
+                                    ######
+                               #######  #######
+                            ######################
+                          ###    ############    ###
+                         ##       ##########       ##
+                        ##          ######          ##
+                       ###           ####           ###
+                       ##             ##             ##
+                       ################################
+                       ###############  ###############
+                       ### ##########    ########## ###
+                        ##  ########      ########  ##
+                         ##  #####          #####  ##
+                          ### ###            ### ###
+                            ####              ####
+                               #######  #######
+                                    ######
+
+  _________.__________________ ___  ________________.___________    _______
+ /   _____/|   \__    ___/    |   \/  _  \__    ___/|   \_____  \   \      \
+ \_____  \ |   | |    |  |    |   /  /_\  \|    |   |   |/   |   \  /   |   \
+ /        \|   | |    |  |    |  /    |    \    |   |   /    |    \/    |    \
+/_______  /|___| |____|  |______/\____|__  /____|   |___\_______  /\____|__  /
+        \/                               \/                     \/         \/
+         _______   ________ __________    _____      _____  .____
+         \      \  \_____  \\______   \  /     \    /  _  \ |    |
+         /   |   \  /   |   \|       _/ /  \ /  \  /  /_\  \|    |
+        /    |    \/    |    \    |   \/    Y    \/    |    \    |___
+        \____|__  /\_______  /____|_  /\____|__  /\____|__  /_______ \
+                \/         \/       \/         \/         \/        \/
+
+                    t r a n s m i s s i o n   r e v i e w
+
+  .------------------------------------------------------------------------.
+  |  FILE .......... SN-0001          REVIEWED ...... 161200Z NOV XX       |
+  |  SUBJECT ....... SITUATION NORMAL . JOS-001 . 640 kc . v0.1.1          |
+  |  DISTRIBUTION .. XXXXXXXX         ITEMS ......... 10                   |
+  `------------------------------------------------------------------------'
+
+  ---[ FINDINGS ]-----------------------------------------------------------
+
+   01 :: STATION
+         Transmits from an unlisted location on an assigned civil-defense
+         frequency. Two personnel are credited. One has been confirmed.
+         [SECOND?]
+
+   02 :: UNITS
+         Frequency is given in kilocycles. The unit was retired from
+         official use decades ago. [NOT A TYPO]
+
+   03 :: CLOCK
+         The timecode on the recording layer does not match the time of
+         broadcast. It matches XXXXXXXX. This office could not confirm
+         whose clock it keeps.
+
+   04 :: FAILURE
+         The recording layer fails before the title card. The last
+         legible frame carries an instruction. The instruction has not
+         been carried out by this office. [RECOMMEND COMPLIANCE?]
+
+   05 :: FRAMES
+         One word appears in the layer for less than one second. It is
+         not a frequency. Entered at the receiver, it returned
+         XXXXXXXXXX.
+
+   06 :: RULES
+         Numbered rule lines appear one or two frames at a time. The
+         source manual has not been located.
+
+   07 :: RECEIVER
+         The station is received at the address in the description. The
+         terminal accepts the authorization exactly as printed.
+
+   08 :: DOCUMENTATION
+         A runbook is issued on authorization. This office read the text.
+         The tables were not examined. [CHECKSUMS NOT VERIFIED]
+
+   09 :: BAND
+         One annotation in the documentation refers to traffic above the
+         assigned band. The dial does not reach it. A request for access
+         was refused. [CLEARANCE?]
+
+   10 :: CONDUCT
+         The machine does not report errors. It closes channels. Intent
+         not established. [INTENT?]
+
+  ---[ RECOMMENDATION ]-----------------------------------------------------
+
+         CONTINUE MONITORING. REMAIN TUNED.
+         NO FURTHER ACTION AT THIS TIME._
+
+  --------------------------------------------------------------------------
+                           -=[ SN-0001 . 1 OF 1 ]=-
